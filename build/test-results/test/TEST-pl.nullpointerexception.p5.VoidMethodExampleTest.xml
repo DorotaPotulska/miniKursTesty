@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.nullpointerexception.p5.VoidMethodExampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-17T09:31:20" hostname="LAPTOP-R5R6IM3Q" time="0.122">
+  <properties/>
+  <testcase name="delete(Path)" classname="pl.nullpointerexception.p5.VoidMethodExampleTest" time="0.122"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
